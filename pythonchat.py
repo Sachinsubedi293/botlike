@@ -13,7 +13,7 @@ import os
 import subprocess
 engine = pyttsx3.init()
 
-openai.api_key = "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"
+openai.api_key = "..."
 url = "https://www.google.com/search?q="
 messages = []
 print("Your new assistant is ready!")
